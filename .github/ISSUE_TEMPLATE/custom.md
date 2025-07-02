@@ -1,8 +1,8 @@
 ---
-name: Bug Report
+name: Custom
 about: Use this template for tracking new features.
 description: File a bug report.
-title: "[Bug]: "
+title: "[Custom]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
