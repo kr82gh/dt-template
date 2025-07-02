@@ -4,7 +4,7 @@ about: Use this template for tracking new features.
 description: File a bug report.
 title: "[Custom]: "
 labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+projects: ["kr82gh"]
 assignees:
   - octocat
 body:
